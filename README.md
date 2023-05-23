@@ -1,9 +1,9 @@
 Setting up
 ------------
 	- git clone this project 
-	- cd in the project
-    - from cmd run mvn clean install
-    - to run project mvn spring-boot:run or run the program in IntelliJ/VSCode from the main class Application
+	- cd into the project
+    - from cmd line run 'mvn clean install'
+    - to run project from cmd line run 'mvn spring-boot:run' or run the program in IntelliJ/VSCode from the main class Application
 
 ### Available Queries and Samples -
 Sample queries
